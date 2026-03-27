@@ -61,14 +61,19 @@ Invoke the skill in your conversation:
 ### Step 5: Solution Implementation (PDCA)
 - Tactical fixes (immediate)
 - Strategic solutions (long-term)
-- Knowledge沉淀
+- Knowledge asset
 
 ## Version
 
 | Field | Value |
 |-------|-------|
-| **Version** | 1.0.0 |
+| **Version** | 1.1.0 |
 | **Updated At** | 2026-03-27 |
+
+## Changelog
+
+- **v1.1.0** (2026-03-27): English version - Fully localized for international users
+- **v1.0.0** (2026-03-27): Initial release - Complete 5-step root cause analysis skill
 
 ## Contributing
 
